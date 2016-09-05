@@ -1,0 +1,43 @@
+{
+  "name": "ww3.goalutility.com",
+  "version": "1.0.0",
+  "homepage": "https://github.com/GoalUtility/ww3#readme",
+  "authors": [
+    "Fromz Prajuktar <pkfromz@gmail.com>"
+  ],
+  "description": "",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "slimscroll": "~1.3.3",
+    "metisMenu": "~1.1.3",
+    "animate.css": "~3.2.6",
+    "bootstrap-sass": "~3.3.4",
+    "jquery": "~2.1.3",
+    "fontawesome": "~4.3.0",
+    "pace": "~1.0.2",
+    "wow": "~1.0.3",
+    "animated-header": "~1.0.0",
+    "flot": "~0.8.3",
+    "flot.curvedlines": "~1.1.1",
+    "flot.tooltip": "~0.8.4",
+    "flot-spline": "*",
+    "peity": "~3.1.1",
+    "chartjs": "~1.0.2",
+    "jquery.steps": "~1.1.0",
+    "jquery.validate": "~1.13.0"
+  },
+  "resolutions": {
+    "underscore": "~1.8.2"
+  }
+}
